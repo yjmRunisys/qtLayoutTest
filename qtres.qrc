@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/findDialog.jpg</file>
+        <file>res/head.gif</file>
+        <file>res/userLayout.jpg</file>
+        <file>res/qqHead.jpg</file>
+        <file>res/qqLogin.jpg</file>
+    </qresource>
+</RCC>
